@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="uri_gameSetting">http://www.google.com</string>
+    <string name="uri_appDownload">http://www.facebook.com</string>
+    <string name="uri_issueBoard">http://m.sandbox.plaync.com</string>
+
+</resources>
